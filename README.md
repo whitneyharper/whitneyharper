@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+I am currently self-learning programming! My goal is to be a fullstack developer. I'm currently learning JavaScript, specically on the backend side. 
 <!--
 **whitneyharper/whitneyharper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
