@@ -3,7 +3,7 @@
 
 I am currently self-learning programming! My goal is to become a backend developer. I'm currently learning Express framework and soon will be moving onto databases. I've done some small projects to pratice what I have learned. Please feel free to view and leave comments. Any advice and critque is welcome to help me become a better developer. 
 
-Read more at: https://blog.pitchme.co/2020/07/09/7-tips-improve-your-github/
+
 <!--
 **whitneyharper/whitneyharper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
