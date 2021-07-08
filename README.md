@@ -4,7 +4,7 @@ I am currently self-learning programming! My goal is to become a fullstack devel
 - 🌱 Learning SQL databases
 <br>
 ## Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]   (https://www.linkedin.com/in/whitney-harper-37724179)
+<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> (https://www.linkedin.com/in/whitney-harper-37724179)
 <br>
 <br>
 ## Knowledge
