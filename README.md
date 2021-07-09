@@ -18,6 +18,8 @@ I am currently self-learning programming! My goal is to become a fullstack devel
 <img align="left" alt="mongoose" src="https://img.shields.io/badge/mongoose%20-%236DB33F.svg?&style=for-the-badge&logo=mongoose&logoColor=white" />
 <img align="left" alt="html" src="https://img.shields.io/badge/html-FE7A16?logo=html&logoColor=white&style=for-the-badge" />
 <img align="left" alt="css" src="https://img.shields.io/badge/css-%231877F2.svg?&style=for-the-badge&logo=css&logoColor=white" />
+<br>
+<br>
 <img align="left" alt="express" src="https://img.shields.io/badge/express-%231DA1F2.svg?&style=for-the-badge&logo=express&logoColor=white" />
 <br>
 <br>
