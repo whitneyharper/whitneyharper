@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am currently self-learning programming! My goal is to become a fullstack developer. I've done some small projects to pratice what I have learned.
+I am currently self-learning programming! My goal is to become a fullstack developer. I've done some small projects to practice what I have learned.
 - 🔭 Working on backend project using Node.js
 - 🌱 Learning SQL databases
 <br>
