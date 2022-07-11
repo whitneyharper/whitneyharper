@@ -14,6 +14,7 @@ I am currently a fullstack developer.
 <img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript%20-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=%2361DAFB" />
 <img align="left" alt="git" src="https://img.shields.io/badge/Git-%23316192.svg?&style=for-the-badge&logo=git&logoColor=white" />
 <img align="left" alt="mongodb" src="https://img.shields.io/badge/MongoDB-3DDC84?logo=mongodb&logoColor=white&style=for-the-badge" />
+
 <img align="left" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 <img align="left" alt="express" src="https://img.shields.io/badge/express-%231DA1F2.svg?&style=for-the-badge&logo=express&logoColor=white" />
