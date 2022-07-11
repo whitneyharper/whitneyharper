@@ -14,12 +14,12 @@ I am currently a fullstack developer.
 <img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript%20-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=%2361DAFB" />
 <img align="left" alt="git" src="https://img.shields.io/badge/Git-%23316192.svg?&style=for-the-badge&logo=git&logoColor=white" />
 <img align="left" alt="mongodb" src="https://img.shields.io/badge/MongoDB-3DDC84?logo=mongodb&logoColor=white&style=for-the-badge" />
-<img align="left" alt="mongoose" src="https://img.shields.io/badge/mongoose%20-%236DB33F.svg?&style=for-the-badge&logo=mongoose&logoColor=white" />
-<img align="left" alt="html" src="https://img.shields.io/badge/html-FE7A16?logo=html&logoColor=white&style=for-the-badge" />
-<img align="left" alt="css" src="https://img.shields.io/badge/css-%231877F2.svg?&style=for-the-badge&logo=css&logoColor=white" />
-<br>
-<br>
+<img align="left" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 <img align="left" alt="express" src="https://img.shields.io/badge/express-%231DA1F2.svg?&style=for-the-badge&logo=express&logoColor=white" />
+<img align="left" alt="react" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
 <br>
 <br>
+<img align="left" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
 
